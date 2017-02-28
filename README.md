@@ -9,8 +9,8 @@ Create Leaflet maps with a linked Google Sheets template.
 - built entirely with open-source code, and no usage limits
 
 ## Demo
-- Leaflet Map https://jackdougherty.github.io/leaflet-maps-with-google-sheets/index.html
-- Google Sheet template https://docs.google.com/spreadsheets/d/1ZxvU8eGyuN9M8GxTU9acKVJv70iC3px_m3EVFsOHN9g/edit#gid=0
+- Leaflet Map https://stacylam.github.io/leaflet-maps-with-google-sheets/index.html
+- Google Sheet template https://docs.google.com/spreadsheets/d/1TiW8PQxnFVe8RuRRdwFlQNV4-x-5fKo4yg_DAByx0DE/edit#gid=0
 
 ## BETA version
 - Report bugs and suggest features in [Issues](https://github.com/JackDougherty/leaflet-maps-with-google-sheets/issues)
